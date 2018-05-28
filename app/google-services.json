@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "647750990619",
+    "firebase_url": "https://fir-techer.firebaseio.com",
+    "project_id": "fir-techer",
+    "storage_bucket": "fir-techer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647750990619:android:9314fc6c590d5c83",
+        "android_client_info": {
+          "package_name": "com.prabhudeepsingh.firebasetecher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647750990619-t71marlab49k64ndhg2g167vap5jfa10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prabhudeepsingh.firebasetecher",
+            "certificate_hash": "17d70066fed114ae6c6e64830c730182da158acd"
+          }
+        },
+        {
+          "client_id": "647750990619-p6f2p8j2pdjbpahfecg83d3k94fe90n1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "647750990619-p6f2p8j2pdjbpahfecg83d3k94fe90n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVtd_ZCerpxidlW4pohr2hsDdNr8krAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647750990619-p6f2p8j2pdjbpahfecg83d3k94fe90n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
